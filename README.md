@@ -8,12 +8,7 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 
 | **Evento** | Ubicación | Fecha    | Temas | Talleres | RRSS | Duración | Precio | CTF | Organiza |
 |----------------|----------|-----------|----------|-------|----------|----------|--------|----|----|
-| **Hackron** | Tenerife | 9 feb 2024 | General | Sí | [Web](https://hackron.com/)| 1 día | -- | Sí | Igor Lukic
-| **hack0n** | Madrid | 22 feb 2024 | General | Sí | [Web](https://hackon.es/)| 1 día | -- | Sí | Alumnos URJC
-| **MorterueloCon** | Cuenca | 22-24 feb 2024 | General | Sí | [Web](https://www.morteruelo.net/)| 3 días | Gratis (Talleres 5€) | Sí | Asociación MorterueloCON
-| **Hackers Week** | Málaga | 4-8 mar 2024 | Parte de seguridad | Sí | [Web](https://hackersweek.es/)| 3 días | Gratis | Sí | Alumnos Informática UMA
-| **CriptoredCON** | Madrid | 7 mar 2024 | Criptografía | No | [Web](https://criptored.es/con/)| 1 día | *Incluido con entrada RootedCon Madrid* | No | Criptored
-| **RootedCon Madrid** | Madrid | 7-9 mar 2024 | General | Sí* | [Web](https://www.rootedcon.com/)| 3 días | 70-600€ (ant. edición) | Sí | Rooted
+| **ViCon** | Vigo | 12 y 13  Abril 2024 | General | Sí | [Web](https://vicon.gal/)| 2 días | 27,50€ (33€ talleres  + charlas) | No | - |
 | **Hack-en** | Linares (Jaén)| 17-18 May 2024 | General | Sí | [Web](https://hack-en.org/)| 2 días | 30-36€ | Sí | Alumnos UJA |
 | **Jnic** | Sevilla | 27-29 May 2024 | General | No | [Web](https://2024.jnic.es/)| 3 días | 125-200€ | Sí | Incibe |
 | **UAD360** | Málaga  | 14 jun 2024| General | -- | [Web](https://uad360.es/)| 2 días | -- | -- | Hispasec |
@@ -26,6 +21,12 @@ Si crees que falta alguna, han anunciado nuevas fechas o algún detalle es incor
 
 | **Evento** | Ubicación | Fecha    | Temas | Talleres | RRSS | Duración | Precio | CTF | Organiza |
 |--------|---------|-----------|----------|-------|----------|----------|--------|----|------|
+| **Hackron** | Tenerife | 9 feb 2024 | General | Sí | [Web](https://hackron.com/)| 1 día | -- | Sí | Igor Lukic
+| **hack0n** | Madrid | 22 feb 2024 | General | Sí | [Web](https://hackon.es/)| 1 día | -- | Sí | Alumnos URJC
+| **MorterueloCon** | Cuenca | 22-24 feb 2024 | General | Sí | [Web](https://www.morteruelo.net/)| 3 días | Gratis (Talleres 5€) | Sí | Asociación MorterueloCON
+| **Hackers Week** | Málaga | 4-8 mar 2024 | Parte de seguridad | Sí | [Web](https://hackersweek.es/)| 3 días | Gratis | Sí | Alumnos Informática UMA
+| **CriptoredCON** | Madrid | 7 mar 2024 | Criptografía | No | [Web](https://criptored.es/con/)| 1 día | *Incluido con entrada RootedCon Madrid* | No | Criptored
+| **RootedCon Madrid** | Madrid | 7-9 mar 2024 | General | Sí* | [Web](https://www.rootedcon.com/)| 3 días | 70-600€ (ant. edición) | Sí | Rooted
 | **Hack&Beers** | Toda España | Todo el año | General | -- | [Web](https://hackandbeers.es/)| Una tarde | Gratis | -- | Comunidad Hack&Beers |
 | **h-c0n¹** | Madrid | *24-25 feb 2023* | General | Sí\* | [Web](https://www.h-c0n.com/)| -- | 50€ | Sí | HackPlayers |
 | **Congreso de Ciberseguridad de Andalucia** | Málaga | *22-23 mar 2023* | General  | Sí | [Web](https://www.juntadeandalucia.es/congresociberseguridadandalucia/)| 2 días | Gratis | Sí | Junta Andalucía |
